@@ -1,0 +1,537 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the champion of the wooden-sword, or, A dialogue betwixt Jack and Will containing that part of his argument wherein he asserts, viz, that the dissenters are members of the Church of England : with some occasional remarks on head-corporation-magistrates as dissenters / by a member of the Church of England.</title>
+            <title>Answer to a rash dialogue betwixt Jack and Will</title>
+            <author>Member of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25582</idno>
+            <idno type="STC">Wing A3396</idno>
+            <idno type="STC">ESTC R18032</idno>
+            <idno type="EEBO-CITATION">11936475</idno>
+            <idno type="OCLC">ocm 11936475</idno>
+            <idno type="VID">51201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51201)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the champion of the wooden-sword, or, A dialogue betwixt Jack and Will containing that part of his argument wherein he asserts, viz, that the dissenters are members of the Church of England : with some occasional remarks on head-corporation-magistrates as dissenters / by a member of the Church of England.</title>
+                  <title>Answer to a rash dialogue betwixt Jack and Will</title>
+                  <author>Member of the Church of England.</author>
+               </titleStmt>
+               <extent>[2], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Religious satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51201:1" rendition="simple:additions"/>
+            <p>An Anſwer To the CHAMPION of the <hi>Wooden-Sword;</hi> OR, A DIALOGUE, BETWIXT Jack and Will. Containing, That Part of his Argument, wherein he aſſerts, <hi>viz.</hi> That the Diſſenters are Members of the Church of <hi>England</hi> —</p>
+            <p>With ſome Occaſional Remarks on Head-Corporation-Magiſtrates, as Diſſenters.</p>
+            <p>By a Member of the Church of <hi>England.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Pudet haec Opprobria nobis,</hi>
+               </l>
+               <l>
+                  <hi>Et dici potuiſſe, &amp; non aliquando refelli.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for the Author, 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:51201:2"/>
+            <pb n="1" facs="tcp:51201:2" rendition="simple:additions"/>
+            <head>That the Diſſenters are not Members of the Church of <hi>England.</hi>
+            </head>
+            <sp>
+               <speaker>JAck.</speaker>
+               <p>Well met, <hi>Will!</hi> I'm glad to ſee you again. Pray, how does the Knight of the Wooden Sword do?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well, <hi>Jack!</hi> juſt after the old rate; ſtill goes to Meetings.</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>How, <hi>Will!</hi> and to Church too? Why? then he looks (like <hi>Ja<g ref="char:EOLhyphen"/>nus</hi>) with a double Face.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>What? becauſe both ſorts of Religious Doors are ſet open? Therefore he appears like the Goddeſs <hi>Concordia</hi> among the Old <hi>Romans;</hi> (which you know, was one of K. <hi>William</hi>'s Emblems at the Fire-works.)</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>That's well indeed! He endeavours then to make all En<g ref="char:EOLhyphen"/>gliſh-men of one mind. I like his Project well. But prethee! how does he deſign to bring it about? He muſt needs be more than <hi>Caeſar,</hi> or <hi>Hercules.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> for all your banter, I know what I ſay: He deſigns to do't by Example; by this means declaring to the World, that the Church and Diſſenters are all one, except in a few indif<g ref="char:EOLhyphen"/>ferent things, in ſome Ceremonies and Circum<g ref="char:EOLhyphen"/>ſtantials.</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Well ſaid, Friend <hi>Will!</hi> Then I ſee, the World is cenſorious, as hitherto not taking him for the Man he is: I confeſs it's a lewd and wicked Age: But, <hi>Will,</hi> let me ask you one civil Queſtion.</p>
+            </sp>
+            <pb n="2" facs="tcp:51201:3"/>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>What's that, Friend?</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Why? prethee <hi>Will?</hi> What Religion's this Great and Charitable Man of? </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>There's a Queſtion, <hi>Jack?</hi> don't you know that? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Prethee, Friend <hi>Will!</hi> How ſhou'd I? D'ye think I'm a Conjurer? I can't tell what to make of 'm. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>That's ſtrange indeed, <hi>Jack!</hi> you ſee, he profeſſes himſelf a Chriſtian: Is not that enough? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Ay, ay, <hi>Will!</hi> But then you know Cuckolds are Chriſtians too: This don't anſwer my Queſtion. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>What a Blockhead thou art, <hi>Jack?</hi> I wiſh all the World no worſe Chriſtians than he's. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Well! that they may ſoon be, I ſuppoſe. But what an anſwer is this? I remem<g ref="char:EOLhyphen"/>ber, Sir, the Italians are wont to call all Naturals Chriſtians: I ſuppoſe, you don't mean thus of the Gentleman, whom the Wiſemen of a Corporation were pleas'd to elect to an Office. Tell me plain<g ref="char:EOLhyphen"/>ly, what Religion this mighty Man's of. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> I ever ſaid, thou'rt ſoft-headed. Don't you know, all Men count him an Independent? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Oh Lord! What's that, <hi>Will?</hi> D'ye make ſo great a Man depend on no Principles of Religion at all? Or is he ſome Independent Officer? What d'ye mean, Man? </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, well, <hi>Jack!</hi> I ſee, you love to play the Rogue; you know what Perſua<g ref="char:EOLhyphen"/>ſion he's of. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Not I, upon my word; neither do I believe, he knows himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> I ſee, you're for banter; you reckon then, ſuch Men have their Religion to chuſe: What? d'ye make a Weather-cock of 'm? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Why all this fury, <hi>Will?</hi> I've reaſon for what I ſay. For if his Religion depends on no fix'd and
+<pb n="3" facs="tcp:51201:3"/>ſolid Principle, I can't tell what to make of 't. And whereas mine is certain, contain'd in divers Canons and Articles of the Church; the Indepen<g ref="char:EOLhyphen"/>dent's is another thing: or (to uſe your own words, <hi>Will,</hi>) may for ought I know<note n="†" place="margin">Pag. 9.</note> depend on the Moon, and be as changeable as ſhe.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Hey, <hi>Jack!</hi> what's all this? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Why, Friend <hi>Will?</hi> I can't but think, they pin their Faith upon another Man's ſleeve: They make more than a Lord Biſhop of their pri<g ref="char:EOLhyphen"/>vate Teacher, (and ſometimes richer too.) For whereas, <hi>Will,</hi> our Biſhops have Rules preſcrib'd them, of Government and Diſcipline, of Faith and Worſhip; (which they cannot tranſgreſs, with<g ref="char:EOLhyphen"/>out incurring the danger of a ſuſpenſion:) your ſingle Presbyter, (if ſuch,) has no Limits;) he may lead his Flock as he pleaſes; all depends on the breath of one mouth.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>There you're out, <hi>Jack.</hi> Their Rule is the H. Scripture, whereby they profeſs to Teach and Govern their Flock; whereas yours<note n="*" place="margin">Ibid.</note> is Humani<g ref="char:EOLhyphen"/>ty, with which we have been too long clog'd. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>That's fine, <hi>Will!</hi> Do the Diſſenters indeed then Preach and Rule by Inſpir'd Methods? You know,<note n="†" place="margin">Ibid.</note> Proteſtants hold no Church or Council Infallible. But if theſe be guided by immediate Inſpiration, it can be nothing leſs; which the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> never pretended to. All that ſhe aims at, amounts to no more, than to hold the ſame Scri<g ref="char:EOLhyphen"/>pture with all ſound Chriſtians for her Rule; out of which ſhe has drawn her Doctrins, not only of Faith, but alſo of Worſhip, and of Diſcipline, con<g ref="char:EOLhyphen"/>tain'd in her 39 Articles. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well? but they hold
+<pb n="4" facs="tcp:51201:4"/>no other Rule, but the Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>There you are in a grand miſtake, <hi>Will.</hi> They've likewiſe their Directory, together with their Forms of Church Government and Diſcipline: which are all the De<g ref="char:EOLhyphen"/>ductions of Men as well as ours. How then can they have higher Pretenſions than the Church of <hi>England?</hi> And ſince their Prayings and Preachings are as much the Inventions of Men, as thoſe of the Church; why ſhall not theirs be accounted Hu<g ref="char:EOLhyphen"/>mane, as well as hers? And I'm afraid, they ge<g ref="char:EOLhyphen"/>nerally diſcover more of Humane Imperfection in them, for want of Learning and good Senſe: And I can't tell, how theſe Men ſhou'd be wiſer than our Reformers, and the whole Church ſince; but as for their honeſty and ſincerity, I doubt not but it may well be call'd into queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Now you ſay ſomething to the purpoſe, <hi>Jack.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Well, <hi>Will!</hi> I make bold to add more; <hi>viz.</hi> That the Doctrines and Practice of the Church are of ve<g ref="char:EOLhyphen"/>ry ancient Uſe and Authority; upon which ac<g ref="char:EOLhyphen"/>count they cannot but be accounted far ſafer and better grounded. And as I doubt not, but that Epiſcopacy may evidently be prov'd to have a Di<g ref="char:EOLhyphen"/>vine and Apoſtolick ſtamp upon it; ſo all our Con<g ref="char:EOLhyphen"/>troverſies will ſoon end by an univerſal conſent to that Doctrine. Beſide, <hi>Will,</hi> it's certain, our Church was never aſham'd of her Principles, having fix'd them in Print; (and you know, Friend, <hi>Litera Scripta manet,</hi>) as a ſure and laſting Record. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> you know the Objection. They tell ye, yours came from <hi>Italy.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>How! and theirs from <hi>Geneva,</hi> which borders upon <hi>Italy.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Thou
+<pb n="5" facs="tcp:51201:4"/>talk'ſt like a Madman, <hi>Jack:</hi> are <hi>Rome</hi> and <hi>Geneva</hi> ſo near? I ever count 'em at the greateſt diſtance imaginable.</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>And then you're out in your ac<g ref="char:EOLhyphen"/>count, <hi>Will.</hi> I tell thee, Man, if we take <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> for a fix'd Meridian, you'll find 'em both far remov'd from that Holy City. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>What? d'ye reckon then, both equally diſtant from the Holy Land? What d'ye mean, Man? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Well! <hi>I</hi> tell thee, Friend, the variation of both thoſe Places is far wide of the Holy City, and they're equal Enemies to Her.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Come, come, <hi>Jack!</hi> leave off thy fooling, and talk more honourably of thy Brethren.</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Yes, yes, Friend, when they deſerve it. But have a little patience, and I'll make it out. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>You never can. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>I'll try that; and then we'll talk to the Wooden-Sword. Thou knoweſt, <hi>Will,</hi> the firſt have added many Inventions to the pure Do<g ref="char:EOLhyphen"/>ctrines of the Chriſtian Faith; and therefore all thoſe, who proteſt againſt Her, have Reform'd upon that account. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Very good! </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Thou knoweſt likewiſe, there are Doctrines of Worſhip, and Doctrines of Diſcipline in that Holy Religion. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well!</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Now if our Diſſenters at home, (to ſpeak the naked truth;) and ſome of the Reform'd abroad, ſubſtract theſe Doctrines from the total ac<g ref="char:EOLhyphen"/>count; (or at beſt are corrupt and deficient in;) what will you ſay then? </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Theſe are<note n="*" place="margin">P. 8.</note> only Cir<g ref="char:EOLhyphen"/>cumſtantials, <hi>Jack.</hi> 
+               </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Thou'rt in a grand miſtake, <hi>Will.</hi> They are Eſſentials, and an Article of my Creed, bearing a principal Relation to the Com<g ref="char:EOLhyphen"/>munion of Saints: And you may have heard, <hi>Will,</hi>
+                  <pb n="6" facs="tcp:51201:5"/>that the Hugonots of <hi>France,</hi> finding the abſolute Neceſſity of Epiſcopacy to the Conſtituting a true Church, ſu'd to their Parliament for eſtabliſh'd Bi<g ref="char:EOLhyphen"/>ſhops, and what Anſwer was given to it? why? a great Man told this King, then they'll have the Face of a Church. And if Epiſcopacy be ſo neceſſary to the true and complete Communion of Saints, then the Doctrines of Worſhip and Diſcipline, drawn out by that high Order of the Holy Scrip<g ref="char:EOLhyphen"/>ture, cannot but be neceſſary too. But if you'd contend about this Matter, you'd beſt ſet about the Confutation of thoſe Ancient and<note n="†" place="margin">Among which are Dr. <hi>Scot.</hi>
+                  </note> Modern Wri<g ref="char:EOLhyphen"/>ters, who have ſufficiently clear'd that Point al<g ref="char:EOLhyphen"/>ready.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>
+                  <note place="margin">P. 5.8.11. <hi>&amp;c.</hi>
+                  </note> Well, <hi>Jack!</hi> I ever ſaid thou'rt hot headed. Thus wou'd you at one blow cut off all our Diſſen<g ref="char:EOLhyphen"/>ting Brethren from the Communion, and from the Privileges of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Thou'rt in a grand miſtake again, <hi>Will.</hi> It is not I, or the Church cut off any from her Communion, or Pri<g ref="char:EOLhyphen"/>vileges, but Obſtinacy and Self-conceit. Thou knoweſt, Friend, the Proteſtant Name of this Kingdom was firſt founded in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as by Law eſtabliſhed: And that our Martyr'd Reformers firſt ſettled it among us, according to the preſent Conſtitution of that Church, or with ve<g ref="char:EOLhyphen"/>ry little difference. And tho' our Brethren pretend to be wiſer than thoſe Reformers, and make a ſe<g ref="char:EOLhyphen"/>cond Reformation; yet I cannot but think, it hath authority ſufficient, to recommend it to all honeſt Engliſhmen, who delight not in Kickſhaws and Novelties. Nor can there be any ſolid grounds
+<pb n="7" facs="tcp:51201:5"/>of Diſpute about thoſe things, that you, and I, and all honeſt Men cannot but<note n="*" place="margin">P. ult. 8.</note> acknowledge in<g ref="char:EOLhyphen"/>different: And therefore, if Men will not be of the Church, you cannot make 'em of the Church: They cannot be<note n="†" place="margin">P. 12.</note> Members of that Body of Prote<g ref="char:EOLhyphen"/>ſtants, who are known by the Name of the Church of <hi>England,</hi> that hate her Epiſcopacy, her Litur<g ref="char:EOLhyphen"/>gy, and her Diſcipline: ſince theſe are the things that diſtinguiſh Her from all other Churches.</p>
+            </sp>
+            <sp>
+               <speaker> Will.</speaker>
+               <p>Well, Friend <hi>Jack!</hi> now you talk too ſe<g ref="char:EOLhyphen"/>vere.</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>It's no ſeverity, but plain honeſt ſenſe; for if Men will not be of the true Church, they are not of the true Church. But thoſe, who re<g ref="char:EOLhyphen"/>ject the neceſſary Terms of Communion with the Catholick Church, can never be ſound Members of ours, as far as they corrupt, or make void the Eſſentials of the true Communion of Saints. This I ſhou'd think a plain caſe: And tho' it be confeſs'd indeed, ſomething may be given to miſtaken Minds, whoſe ſtrength of underſtanding cannot reach the ſtrength of thoſe Arguments, on which theſe Sub<g ref="char:EOLhyphen"/>ſtantial Matters do depend; and therefore our wiſe Law-givers have granted them Liberty, without any diminution to their Honour or Prudence: Yet from the Original of the Reformation it was not ſo. Men were oblig'd to be inſtructed by their own proper Guides, and not by ev'ry Corner-cree<g ref="char:EOLhyphen"/>per; who neither can juſtifie his Miniſtry or his Doctrine; who may talk Blaſphemy at his plea<g ref="char:EOLhyphen"/>ſure, and no Man in the Meeting capable to contra<g ref="char:EOLhyphen"/>dict him; who may trump up ſedition boldly, and have enough to ſide with him; who with a whi<g ref="char:EOLhyphen"/>ning
+<pb n="8" facs="tcp:51201:6"/>Cant may pretend to Inſpiration, whenas his Diſcourſe is ſo far from that, as to be no better than plain down-right Non-ſenſe. And as I doubt not, but that theſe are the Circumſtances of many thou<g ref="char:EOLhyphen"/>ſands of our deluded Brethren, thus carry'd away by the ſlight of Men; ſo I cou'd heartily wiſh, ſome means might be found out to reconcile our Diffe<g ref="char:EOLhyphen"/>rences, and create<note n="*" place="margin">P. 14.</note> an hearty Union among Pro<g ref="char:EOLhyphen"/>teſtants: That ſo ſuch Perſons might be throughly convinc'd of the Excellency of that Reformation, ſo ſolemnly atteſted by no leſs than the Blood of our Martyrs, as alſo firſt planted by them in the name of the Eſtabliſh'd Church. And you may obſerve withal, that our Epiſcopacy, our Liturgy, our Ceremonies, and our Diſcipline were left by them in very near the ſame form they now are: And you know, <hi>Will,</hi> that ſome of them were Bi<g ref="char:EOLhyphen"/>ſhops themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> upon granting you all this, you ſtill ſee the Diſſenters,<note n="*" place="margin">P. 6.</note> on condition they ſub<g ref="char:EOLhyphen"/>ſcribe to the Doctrine of the Church, are qualify'd for Offices of Power and Truſt. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>True, <hi>Will.</hi> But I have prov'd already, how far they own the Doctrine of our Reformation: and I obſerve far<g ref="char:EOLhyphen"/>ther, that they are not qualify'd, as Church of <hi>England</hi> Men; but as they are <hi>Engliſh-men,</hi> by ſub<g ref="char:EOLhyphen"/>ſcribing to her Articles, except three only, they're by vertue thereof admitted to Offices. This is the full Sum of that Matter. But you err, Friend, if you reckon them of<note n="*" place="margin">P. 12.</note> that Body of Proteſtants, who are known by the Name of the Church of <hi>England;</hi> ſince you ſee, they will not be ſo, but
+<pb n="9" facs="tcp:51201:6"/>obſtinately refuſe Communion with Her: And you know very well, the three Articles exempt ſuch from acknowledging, her Liturgy, her Ho<g ref="char:EOLhyphen"/>milies, and the Forms of Conſecration of her Mi<g ref="char:EOLhyphen"/>niſtry; which are the Principal things we differ about, and the cauſe of their Schiſm from our Primitive Reformation. So that ſuch Perſons as reject theſe, are not by vertue of ſuch ſubſcribing rend'red thereby Members of her Religious Body; ſince they will not be ſo but declare againſt her Original Reformation. What can you make more of it? And therefore no Diſſenters, however qua<g ref="char:EOLhyphen"/>lify'd, can be incorporate into our Religious Body, either as <hi>Engliſh-men,</hi> or Proteſtants: They are only left, as they are, Diſſenters; and call'd ſo all along in the Act. For I ſuppoſe, the Parliament never deſign'd to create Impoſſibilities, or create Contradictions at any time. And therefore, Friend, you'd do well to be more cautious, how you raſhly comprchend ſuch Men within the Pale of the Church, who will not be of the Church; and who were never deſign'd by that Auguſt Aſſembly the Benefits of ſuch a Comprehenſion.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Piſh, Man! Why ſo long a talk about the Church, and that Reformation that came from <hi>Rome?</hi> you know very well,<note n="‖" place="margin">P. 13.</note> it's the Parliament hath ſettled the Limits of the Church, and given her all the Authority ſhe has; and<note n="†" place="margin">Ibid.</note> the ſame Au<g ref="char:EOLhyphen"/>thority may enlarge her Bounds and Pale, when they pleaſe. And can you deny, but they have done the ſame thing for the Diſſenters now, that formerly they did for you?</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Come, come, <hi>Will!</hi>
+                  <pb n="10" facs="tcp:51201:7"/>this will never hold Water. The Parliament have only given 'em Liberty to Worſhip God, as they pleaſe; but never yet made 'em Members of the Eſtabliſh'd Church, who never wou'd be of the Eſtabliſh'd Church. And if you look into their Act, (it's the 1ſt. of <hi>William</hi> and <hi>Mary,</hi> as I take it,) they give there no more, than an eaſe and relief to tender Conſciences, that I cou'd ever yet diſ<g ref="char:EOLhyphen"/>cern. And in earneſt, how can they be genuine Sons of her, who out of ſtubborneſs diſown ſo good a Mother, whole Laws and Government have all along preſerv'd all the Proteſtancy of this King<g ref="char:EOLhyphen"/>dom?</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>How d'ye mean, Friend <hi>Jack?</hi> Have her Laws preſerv'd all the Proteſtants of <hi>England;</hi> when I cannot but think they tend directly to the Deſtruction of all thoſe, who<note n="‖" place="margin">P. 8.</note> differ from them only in Circumſtantials? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Well, <hi>Will!</hi> I find, thou wilt never learn wit. Shall I give you a nu<g ref="char:EOLhyphen"/>merous Catalogue thereof, beginning from the very Infancy of our Reformation? But ſince that wou'd be too large a field of Diſcourſe, you may take one ſingle inſtance alone, perform'd within our own Memory; and 'twas in the late Reign, when thoſe very Diſſenters joyn'd with Popery againſt the Church; and held it out ſo long too, till at laſt ſeeing all a-going, they began to repent, almoſt too late. But this is ſo far out of the road of my preſent Argument, that I'd rather reſerve it for another opportunity. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> tho' I long to hear your ſenſe on that point, yet you may go on in your Argument. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Well then! let me tell you, <hi>Will;</hi> the Parliament of <hi>England</hi> was
+<pb n="11" facs="tcp:51201:7"/>never ſo o'reſeen, as to ſtamp the honourable Name of the Church of <hi>England</hi> upon Confuſion and Diſ<g ref="char:EOLhyphen"/>order, on all ſorts and ſizes of Sects and Enthuſi<g ref="char:EOLhyphen"/>aſms. They thought it enough to grant them To<g ref="char:EOLhyphen"/>leration: And that they might keep them in as much order as poſſible: They gave this Liberty to ſuch only, as acknowledge her other 36 Articles, and ſtrictly the Doctrine of the Bleſſed Trinity. What can you make more of it?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Yet ſtill the Diſſenters are enjoyn'd the higheſt Office of the Church, the Sacrament: will not that entitle 'em to be of her Body?</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Not in the leaſt, <hi>Will,</hi> that I know of. Their receiving her Sacrament means no more, than that the Par<g ref="char:EOLhyphen"/>liament intended to take ſufficient ſecurity of, by laying this Reſtraint on thoſe Men, who know not what Decency and Order mean; thereby obliging 'em to pay ſuch acknowledgments to Her, as the true Mother, and the prime Reformation of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> merits. But you may be confident, never calls 'em her Sons in any ſenſe whatſoever; in that they cannot be ſo, as long as they oppoſe the true Reformation of <hi>England.</hi> What can you make more of it? Indeed, if you'd call 'em Sons, becauſe they have all along been preſerv'd under the Co<g ref="char:EOLhyphen"/>vert and Protection of her Laws; it muſt be true in no other ſenſe, than as a ſtubborn Child, hav<g ref="char:EOLhyphen"/>ing forfeited his Hereditary Right, may be ſo far receiv'd by a wiſe Parent, as to ask a Bleſſing of her. And thus much in their preſent Circum<g ref="char:EOLhyphen"/>ſtances ſhe allows them; but much more, when<g ref="char:EOLhyphen"/>ever they grow wiſer. But ſo long as they refuſe
+<pb n="12" facs="tcp:51201:8"/>the other Parts of their Duty, it's impoſſible to count 'em her Members for the performance of one ſingle act alone.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well, Friend! but for all this, what if theſe qualify'd Perſons will ſtill call themſelves by her Name?</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Why, <hi>Will?</hi> they may call them<g ref="char:EOLhyphen"/>ſelves by what name they pleaſe; but that will never ſerve their turn. The true Requiſites ſhe expects are the Duties of her Reformation; and theſe are Obedience to her Church-Governors and their Diſcipline, with an hearty joyning in her Of<g ref="char:EOLhyphen"/>fices and Devotions. Theſe her Canons, theſe her Articles, theſe her Homilies ſtrictly enjoyn. But for any Man to pretend a fondneſs for Her, and ſtill act the contrary, cannot but be prepoſterous, and ridiculous. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Why, Man? can you ſay then, I can't love the Church, and go to Meetings too? May I not do both? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Yes Friend <hi>Will;</hi> you may do both, if you pleaſe; but then can never be a true Member of either, if I may ſpeak truth. But to affect the Name of the Church of <hi>England,</hi> when you come to Church only to hear a Sermon, refu<g ref="char:EOLhyphen"/>ſing to joyn in her Offices of Devotion, I know no name to call it by; unleſs you'll ſay, it's Legerde<g ref="char:EOLhyphen"/>main, or a playing at Boo-peep with God himſelf. But wou'd Men be in earneſt with God and Man, they cou'd never trifle thus with both, and (like Children) play at hide and ſeek; refuſing good ſubſtantial food for Whimſeys and Novelties. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> I ſhall not pretend to defend all Men's actions; and know not, whether any Man can juſti<g ref="char:EOLhyphen"/>fie ſuch. But—</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>What wou'd you ſay at laſt, <hi>Will?</hi>
+                  <pb n="13" facs="tcp:51201:8"/>can you make the matter better than it is? Pre<g ref="char:EOLhyphen"/>thee! is not this an halting between two Opinions; or rather juggling with God and the World? For ſince I'm allow'd to ſerve God, my own way, with<g ref="char:EOLhyphen"/>out any reſtraint; what neceſſity or reaſon can I pretend for a Maſquerade, thus publickly to de<g ref="char:EOLhyphen"/>clare my ſelf an Hypocrite?</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> thou'ſt ſaid a great deal to con<g ref="char:EOLhyphen"/>vince me, that the Diſſenters are not Members of the Church of <hi>England:</hi> And yet it cannot but be wiſh'd, that all <hi>Engliſh-men</hi> were really ſo. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Ay, <hi>Will.</hi> I heartily wiſh, I cou'd ſee that day; it wou'd much better the condition both of Church and State. But I remember, you laid the fault laſt time at the Church's door; whenas you ſee now, whoſe it is. You all along build upon that unhap<g ref="char:EOLhyphen"/>py notion, that the Church have<note n="‖" place="margin">Pag. 11.</note> perſecuted the Diſſenters: That they wou'd<note n="*" place="margin">Pag. 7.</note> not own 'em for Brethren, till of late: That they<note n="‖" place="margin">Pag. 8.</note> counted 'em for Hereticks, Schiſmaticks, and God knows what. Whereas you ſee, it's they have made the Breach: they have made the Defection from the well-fram'd, primitive Reformation of <hi>England.</hi> And pray, for what? why? for ſuch things, as they call indifferent? Have we receded from the Prin<g ref="char:EOLhyphen"/>ciples of our Reformers, or they? and becauſe the Laws of the Reformation found 'em out, and ſome<g ref="char:EOLhyphen"/>times puniſh'd their Obſtinacy, ſhall that be call'd the Church's Perſecution? and the<note n="|" place="margin">Pag. 8.</note> deſtroying another Party, that differ from them only in Cir<g ref="char:EOLhyphen"/>cumſtantials? When indeed, (to ſpeak the truth, and no more,) 'twas an act of our Parliament, and
+<pb n="14" facs="tcp:51201:9"/>not of the Church; or rather, with more truth and good ſenſe, their own fault. And I cannot but think it no ſmall abuſe and affront of that great and wiſe Aſſembly, (whoſe Authority cannot but be obligatory to us, when it concurs with that of God's Words) to oppoſe their Acts founded upon ſo much Prudence and good ſenſe, as the keeping Men within the Bounds of Moderation and Order, and from ſuch Errors as blind Guides would lead 'em into. What d'ye think now of the matter? Are the Diſſenters of the true Church of <hi>England,</hi> or no? Or is it poſſible, they ſhou'd be ſo, as long as they oppoſe the true Reformation of <hi>England?</hi> This was the grand Topick, wherewith you im<g ref="char:EOLhyphen"/>pos'd on me in our laſt Conference.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, <hi>Jack!</hi> after all the do and pother you make about the Church, you ſti'l ſee, theſe Cor<g ref="char:EOLhyphen"/>poration-Officers retain their Enſigns of Honour, and carry them to Meeting. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Ay, <hi>Will.</hi> Much good may do their Widows with it: And yet I cannot but think it far more reputable for thoſe Officers, to keep the Peace much better; and not upon the Concluſion of a dangerous War to com<g ref="char:EOLhyphen"/>mence a new one againſt that Reformation, to which all Proteſtants of more than three Kingdoms are ſo infinitely oblig'd. But when our moſt Glo<g ref="char:EOLhyphen"/>rious Monarch had brought us home Peace, then to diſturb That and the Church, when ſhe was bleſſing God for it, cannot but be ridiculous. Be<g ref="char:EOLhyphen"/>ſides, it cannot but be counted Folly in theſe Ma<g ref="char:EOLhyphen"/>giſtrates, to ſlight the Attendants of their Corpo<g ref="char:EOLhyphen"/>ration-Honour, by going (like Owls) to an Houſe,
+<pb n="15" facs="tcp:51201:9"/>or a Barn, or any blind Hole, where they cannot in Honour and Conſcience follow 'em: Who per<g ref="char:EOLhyphen"/>haps) as they have for a great part born the Office long before their Worſhips; ſo it cannot but be counted an honour to 'em, to be ſeen in ſo good Company. What d'ye think now, Friend <hi>Will,</hi> of your Bounce? Can you bluſh for your Corpo<g ref="char:EOLhyphen"/>ration-Man?</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Not I. Let his Horſe bluſh for him. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>And ſo he wou'd, were he turn'd into <hi>Balaam</hi>'s Aſs; and forbid his madneſs too.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Hey, <hi>Jack!</hi> why ſo furious? you ſtill ſee, theſe Corporation-Officers go to Meetings: Nei<g ref="char:EOLhyphen"/>ther can you bind up Magiſtrates of ſo great Power and Truſt, where the Law has left 'em at liberty. Why then d'ye fret, and teaze your ſelf, or what good d'ye get by it?</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Well ſaid, <hi>Will!</hi> wiſely urg'd, upon my word! yet for all that, I'll have one tug more with you about that matter. You think then, Reflections on their Wiſdom and Ho<g ref="char:EOLhyphen"/>nour ſignifie nothing; ſo they keep but the ſaddle, it matters not, whether they come off with cre<g ref="char:EOLhyphen"/>dit, or diſgrace. What doughty Knights, you make of your Men in an Office? I remember, Sir, you've entitled one to the Wooden-Sword already; with which you ſay, he's to do<note n="*" place="margin">Pag 4.</note> very noble Acts, and<note n="‖" place="margin">Ibid.</note> make Conqueſts for the Church of <hi>England.</hi> Pray, how d'ye make all this out? </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well! ſince you put me to't, I prove it thus; A Corporation-Officer's<note n="*" place="margin">Pag. 7.</note> Preſence at the Meetings, with the En<g ref="char:EOLhyphen"/>ſigns of Authority, is an Evidence that the Do<g ref="char:EOLhyphen"/>ctrine of the Church is Preach'd there; And<note n="†" place="margin">Ibid.</note> a Declaration, that the Pale of the Church is en<g ref="char:EOLhyphen"/>larg'd.</p>
+            </sp>
+            <pb n="16" facs="tcp:51201:10"/>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Profoundly argued! a very noble Act indeed, <hi>Will!</hi> Thus we ſee, theſe mighty Men can work Miracles; create Contradictions; do more, than the Wiſdom of the whole Nation cou'd ever effect, for above 150 years together. Nay, One with a Monſtrons Sword will out-do the greateſt Hero of the Age. And had our moſt glorious Monarch but known it had been in his Dominions, what wou'd he not have done with it long ſince? He'd not only conquer'd the Power of <hi>France,</hi> but alſo reduc'd 'em to own their Proteſtant Subjects, if not made 'em all ſuch. And I cannot but think him a very ſtingy Knight, hitherto to envy us ſo great a Bleſſing; not to ſay, have ſav'd us ſome Millions to boot. But perhaps he reſerves theſe Conqueſts for himſelf alone; and will give no o<g ref="char:EOLhyphen"/>ther the glory of ſo noble Actions.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Thou'rt a wicked Rogue, <hi>Jack.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>No matter for that, <hi>Will.</hi> Since thou'ſt made ſo mon<g ref="char:EOLhyphen"/>ſtrous a Man of 'm, let's ſee, what he can do at home, before we ſend him abroad, to <hi>France, Spain, Italy, Germany,</hi> and all the World over. For I can aſſure you, we cannot but wiſh all Chriſtians no worſe, than thoſe of the Church of <hi>England</hi> ſhou'd be; or than her Doctrine wou'd make 'em, and all Mankind. But, <hi>Will,</hi> let me whiſper one word in your ear. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>What's that? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Why, Friend? let that mighty Man make two ſticks one, before he reconcile the Presbyterian and Indepen<g ref="char:EOLhyphen"/>dent Parties with the Church. When he's done that, he may try his skill with us; but till then you'll give me leave, neither to believe your ſelf,
+<pb n="17" facs="tcp:51201:10"/>or another Author. And I muſt tell withal, cou'd he bring that whole matter to bear, he'd do more, than the Wiſdom of the whole Nation cou'd ever effect, as I ſaid before. For had there been any poſſible means thereto, our Parliament wou'd have done it long ſince, having made it their endeavors, ever ſince the dawn of the Reformation. What d'ye think now, Friend <hi>Will,</hi> of the whole matter?</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>You ſay right; the Parliament, I believe, wou'd have done it; but what's the reaſon? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Why <hi>Will?</hi> the Diſſenters wou'd never hear reaſon. Witneſs the famous Convocations of <hi>James</hi> I. and <hi>Charles</hi> II. In both which they'd all the advantages of the World to make out their Pretenſions, and argue the Point calmly. So difficult it is to bring thoſe Men, who will not live under the Government of the Church, (and very hardly of the Crown,) ever to hear reaſon. Your Corporation-Officer can ne<g ref="char:EOLhyphen"/>ver reconcile ſo great Contradictions.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well! but at laſt, <hi>Jack,</hi> you can't but ſay, our Diſſenting Brethren are nearer the Church, than any other Proteſtants in <hi>Europe,</hi> as<note n="*" place="margin">P. 7.12.13</note> Preach<g ref="char:EOLhyphen"/>ing the ſame Doctrine in the Meetings.</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>That's a grand Queſtion, <hi>Will.</hi> Prethee! in what ſenſe can that be true? The Doctrines of ours, as far as ſhe's diſtinguiſh'd from the Univerſal Church, and all others, are thoſe of Worſhip, and of Diſcipline. Theſe they never Preach, unleſs it be backward: (as they ſay Witches are made by ſaying the Lord's Prayer.) How then can they be counted of her Body, any more than any others? I add withal, there are Churches abroad far nearer the Church
+<pb n="18" facs="tcp:51201:11"/>of <hi>England,</hi> than any the moſt moderate Diſſen<g ref="char:EOLhyphen"/>ters in the Kingdom; particularly the Church of <hi>Zurich</hi> in <hi>Switzerland;</hi> not to ſay, all the <hi>Lutherans</hi> in <hi>Sweden, Denmark,</hi> and the Empire: And there<g ref="char:EOLhyphen"/>fore the great Man in his Office wou'd do well, to make Conqueſts for the Church of <hi>England</hi> in all thoſe Parts; and not trouble us alone with his no<g ref="char:EOLhyphen"/>ble Acts. Or if his Ambition lead him higher, (as he's of the Univerſal Church, tho'a very un<g ref="char:EOLhyphen"/>ſound Member thereof in my Opinion,) he'd do well to try his skill at <hi>Rome, Madrid,</hi> or <hi>Paris;</hi> and ſee, what he'd get by his Knight-Errantry; or whether he can convert the <hi>Pope,</hi> any more than the <hi>Quaker</hi> did.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Hey, <hi>Jack!</hi> where are you ſending that Sword, which you know never ſtirs beyond the Corporation-Liberties? </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Why, <hi>Will?</hi> any where; ſo the Throat of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> been't cut with it: to the <hi>Mogul,</hi> the <hi>Sophi,</hi> the <hi>Grand Signior,</hi> or any the remoteſt Parts of the Univerſe; he's room enough to make his Con<g ref="char:EOLhyphen"/>queſts, and enlarge the Pale of the Church, if he be ſo good at it.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well, <hi>Jack!</hi> thou'ſt tir'd my patience, what good will you get by affronting your Bre<g ref="char:EOLhyphen"/>thren thus?</p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Why? then I find, Friend <hi>Will,</hi> you expect ſome great matter for your Service. This, I ſuppoſe, dubb'd you Champion of the Wooden-Sword. </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well! I'll hear no more. I'll get me to the Hall; and refreſh my ſelf with ſome Crumbs of Comfort, and arm me for ano<g ref="char:EOLhyphen"/>ther bout, Farewell. </p>
+            </sp>
+            <sp>
+               <speaker>J.</speaker>
+               <p>Ay, ay, Friend <hi>Will;</hi> fare thee well! I ſee, you love to hear truth as
+<pb n="19" facs="tcp:51201:11"/>little ſpoke, as you write. But pray, don't fail to tell the great Man, he is not like to ſet up an Office <hi>de Propaganda Fide</hi> this Year in <hi>England.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>A REMARK.</head>
+            <p>FInding ſuch Arguments in the little Pamph<g ref="char:EOLhyphen"/>let of <hi>Jack</hi> and <hi>Will,</hi> as are generally made uſe of by the Diſſenters; and becauſe it ſeems the Top and Flower of their Railery againſt the Church of <hi>England;</hi> upon that account ſome time ſince I undertook this Defence. Not that that Libel deſerves an Anſwer upon the ſcore of its Arguments, or fierce Reaſoning, (for in both I find it very deficient:) but to curb in ſome mea<g ref="char:EOLhyphen"/>ſure the Inſolence of that Author, and of the Ori<g ref="char:EOLhyphen"/>ginal Cauſe thereof. I need not be overforward to inform the World, what approbation this Dia<g ref="char:EOLhyphen"/>logue has had, ſince the firſt writing of it: All that I deſire is, that it may have that effect upon the Diſſenter, at which it aims. As for the Mar<g ref="char:EOLhyphen"/>ginal Remarks, they're for the moſt part Obje<g ref="char:EOLhyphen"/>ctions
+<pb facs="tcp:51201:12"/>out of him, taken from the Octavo Print, (as cheapeſt and in moſt hands; there being alſo a ſecond Dialogue of that Print, which will like<g ref="char:EOLhyphen"/>wiſe challenge ſome Remarks hereafter.</p>
+         </div>
+         <div type="publishers_notice">
+            <p>THere will be Printed, by the ſame Hand ano<g ref="char:EOLhyphen"/>ther Dialogue betwixt <hi>Dick</hi> and <hi>Will:</hi> Wherein the true Engliſh Loyalty is ſtated.</p>
+            <pb facs="tcp:51201:12"/>
+         </div>
+      </back>
+   </text>
+</TEI>
